@@ -1,0 +1,4 @@
+D 'xtrec': Panel unit root test based on recursive detrending (Westerlund 2015) Use xtrec With STATA 19
+D
+F xtrec.ado
+F xtrec.sthlp
