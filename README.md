@@ -1,6 +1,8 @@
 # xtrec
 Panel unit root test based on recursive detrending (Westerlund 2015) Use xtrec With STATA 19
 
+https://www.youtube.com/watch?v=CTKsOLotp4U
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
